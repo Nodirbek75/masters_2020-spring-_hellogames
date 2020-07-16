@@ -1,5 +1,5 @@
 # Hello Games
-> Hello Games App built with kotlin
+> Hello Games App built with kotlin for Android programing course
 
 ## App Info
 
